@@ -1,5 +1,4 @@
 import cv2 as cv 
-from matplotlib import pyplot as plt
 import numpy as np
 
 canvas = np.zeros((1000, 1000, 3), dtype="uint8")
